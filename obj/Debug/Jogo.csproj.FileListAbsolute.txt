@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\bin\Debug\Jogo.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\bin\Debug\Jogo.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Projetos em CSharp\Jogo\obj\Debug\Jogo.pdb
